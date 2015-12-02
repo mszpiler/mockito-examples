@@ -1,7 +1,7 @@
 package com.enotion;
 
 /**
- * As you can see here if you don't have final class then you can stub toString method. For String class it is impossible.
+ * As you can see here if you don't have final class then you can stub toString method in Mockito. For String class it is impossible.
  */
 public class MyString {
     public String myToString() {
