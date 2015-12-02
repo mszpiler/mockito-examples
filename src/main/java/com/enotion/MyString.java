@@ -1,7 +1,7 @@
 package com.enotion;
 
 /**
- * Created by jan on 26.11.2015.
+ * As you can see here if you don't have final class then you can stub toString method. For String class it is impossible.
  */
 public class MyString {
     public String myToString() {
